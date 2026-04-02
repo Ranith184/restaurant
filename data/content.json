@@ -1,0 +1,91 @@
+{
+  "restaurant": {
+    "name": "Étoile D'Or",
+    "description": "Experience fine taste like never before. An exquisite culinary journey crafted with passion, precision, and the finest ingredients.",
+    "phone": "+1 234 567 8900",
+    "email": "reservations@etoiledor.com",
+    "address": "123 Opulence Boulevard, Luxury District",
+    "whatsapp": "https://wa.me/1234567890?text=I%20would%20like%20to%20book%20a%20table",
+    "swiggyUrl": "https://swiggy.com",
+    "zomatoUrl": "https://zomato.com",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15224.999272457813!2d78.38883144999999!3d17.49382225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb91c7ffffffff%3A0xe67dbd348a04cd89!2sKukatpally%2C%20Hyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin",
+    "openingHours": {
+      "Mon-Fri": "18:00 - 23:00",
+      "Sat-Sun": "12:00 - 15:00, 18:00 - 23:30"
+    }
+  },
+  "menu": [
+    {
+      "category": "Starters",
+      "items": [
+        {
+          "name": "Truffle Arancini",
+          "description": "Crispy risotto balls infused with black truffle and aged parmesan.",
+          "price": "$24"
+        },
+        {
+          "name": "Wagyu Carpaccio",
+          "description": "Thinly sliced A5 Wagyu beef, caper berries, and white truffle oil.",
+          "price": "$38"
+        },
+        {
+          "name": "Oysters Rockefeller",
+          "description": "Premium oysters baked with a rich spinach and absinthe butter.",
+          "price": "$32"
+        }
+      ]
+    },
+    {
+      "category": "Mains",
+      "items": [
+        {
+          "name": "Lobster Thermidor",
+          "description": "Butter-poached lobster tail in a creamy cognac sauce, gratinated with Gruyère.",
+          "price": "$85"
+        },
+        {
+          "name": "Filet Mignon",
+          "description": "Grass-fed beef tenderloin, wild mushrooms, and a rich bordelaise reduction.",
+          "price": "$65"
+        },
+        {
+          "name": "Saffron Risotto",
+          "description": "Creamy Arborio rice with Mediterranean saffron, seared scallops, and mascarpone.",
+          "price": "$55"
+        }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        {
+          "name": "Gold Leaf Mille-Feuille",
+          "description": "Layers of delicate puff pastry, Madagascar vanilla bean cream, topped with 24k gold leaf.",
+          "price": "$28"
+        },
+        {
+          "name": "Dark Chocolate Dome",
+          "description": "Valrhona chocolate mousse with a glowing raspberry center and mirror glaze.",
+          "price": "$22"
+        }
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Eleanor Vance",
+      "review": "A truly unforgettable evening. The service was impeccable and the Wagyu carpaccio simply melted in the mouth.",
+      "rating": 5
+    },
+    {
+      "name": "Arthur Pendelton",
+      "review": "The epitome of fine dining. Every dish is a work of art, both visually and fundamentally.",
+      "rating": 5
+    },
+    {
+      "name": "Sophia Laurent",
+      "review": "An exceptional atmosphere with flavors that tantalize the palate. The Gold Leaf Mille-Feuille was phenomenal.",
+      "rating": 5
+    }
+  ]
+}
